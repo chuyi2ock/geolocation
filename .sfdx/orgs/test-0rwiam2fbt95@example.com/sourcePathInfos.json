@@ -5,9 +5,9 @@
             "sourcePath": "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1549825028036,
-            "changeTime": 1549825028036,
-            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "modifiedTime": 1549904192664,
+            "changeTime": 1549904192664,
+            "contentHash": "5782d87093e5f2a937e6ba6a1de1f99a48d147b5",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false,
@@ -35,11 +35,13 @@
             "sourcePath": "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app\\main\\default",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1549836555333,
-            "changeTime": 1549836555333,
-            "contentHash": "2d1cb845fdad054c8ee1c9d9f9ffd0f22a4d05e6",
+            "modifiedTime": 1549904064703,
+            "changeTime": 1549904064703,
+            "contentHash": "63b71ce000e27a3eb7ec98195deba4631a8fe871",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -48,12 +50,13 @@
             "sourcePath": "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app\\main\\default\\aura",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1549900444876,
-            "changeTime": 1549900444876,
-            "contentHash": "9c98372a45cf06c7fb95ee4aa450766e3a658e86",
+            "modifiedTime": 1549906402467,
+            "changeTime": 1549906402467,
+            "contentHash": "f6ef26dfa1af9f6656ad5d002165fc2c67ebc483",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -95,7 +98,9 @@
             "changeTime": 1549826311921,
             "contentHash": "53153da293978b02d191b6ae64f72eae1e200c56",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -108,7 +113,9 @@
             "changeTime": 1549826311957,
             "contentHash": "6b6949a234f89bf80a2a4bac6f7d790775dbd596",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -121,7 +128,9 @@
             "changeTime": 1549826311998,
             "contentHash": "dcdf8712700a9c47addd7bf70102c8aa5cd38a22",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -134,7 +143,9 @@
             "changeTime": 1549826312043,
             "contentHash": "b1147d7789c84115e211f58721fa912fea93654c",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -147,7 +158,9 @@
             "changeTime": 1549826312097,
             "contentHash": "3d2eb4a1cc29b3e1dc5e6feba7e37fa152623195",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -160,7 +173,9 @@
             "changeTime": 1549826312129,
             "contentHash": "ae2a52f5aed66a201000ad6ac9a92ea7f3734278",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -173,7 +188,9 @@
             "changeTime": 1549826312139,
             "contentHash": "22561a9d689e7899abdd423d8b7cfcab331df915",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -182,11 +199,13 @@
             "sourcePath": "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app\\main\\default\\settings",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1549826311919,
-            "changeTime": 1549826311919,
-            "contentHash": "51a767161ecb76df77be39042e42cbb2d91005fb",
+            "modifiedTime": 1549904065224,
+            "changeTime": 1549904065224,
+            "contentHash": "6c46deeb759441b8d631282891402b5569e3eefb",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -199,7 +218,9 @@
             "changeTime": 1549826311945,
             "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -212,7 +233,9 @@
             "changeTime": 1549826311944,
             "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -225,7 +248,9 @@
             "changeTime": 1549826311943,
             "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -238,7 +263,9 @@
             "changeTime": 1549826312112,
             "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -251,7 +278,9 @@
             "changeTime": 1549826312138,
             "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -264,20 +293,24 @@
             "changeTime": 1549829503306,
             "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 292,
             "modifiedTime": 1549902394806,
             "changeTime": 1549902394806,
-            "contentHash": "1b3bdaf5018ea4a53307d7f7f75627a10855eeb7"
+            "contentHash": "1b3bdaf5018ea4a53307d7f7f75627a10855eeb7",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -290,7 +323,9 @@
             "changeTime": 1549829849454,
             "contentHash": "7acf1df0ec0781930c8dacf0ffedfb1e5aa2864f",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -303,7 +338,9 @@
             "changeTime": 1549830045338,
             "contentHash": "bd7161f8b78fb71785cf2b56d7038280fc9b4ca5",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -316,20 +353,24 @@
             "changeTime": 1549830045336,
             "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
             "isDirectory": false,
+            "size": 201,
+            "modifiedTime": 1549906218387,
+            "changeTime": 1549906218387,
+            "contentHash": "b653a651d8e3ffd78bebd800ab00f8e46a0b360f",
             "isMetadataFile": false,
-            "size": 182,
-            "modifiedTime": 1549902526823,
-            "changeTime": 1549902526823,
-            "contentHash": "f0aad58c6510048b7f88251e480b43431d0b9784"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -342,20 +383,24 @@
             "changeTime": 1549830045315,
             "contentHash": "9cba73ac62a1355406862911981efd7e62639c62",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.css",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 129,
             "modifiedTime": 1549902424342,
             "changeTime": 1549902424342,
-            "contentHash": "85b104cc64abfbfc4c3db17ed3f6622f68ff6797"
+            "contentHash": "85b104cc64abfbfc4c3db17ed3f6622f68ff6797",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -368,7 +413,9 @@
             "changeTime": 1549830045340,
             "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -381,7 +428,9 @@
             "changeTime": 1549830045333,
             "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -394,7 +443,9 @@
             "changeTime": 1549830045320,
             "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -407,7 +458,9 @@
             "changeTime": 1549830045324,
             "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -420,7 +473,9 @@
             "changeTime": 1549830045330,
             "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -433,7 +488,9 @@
             "changeTime": 1549836555328,
             "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -446,7 +503,9 @@
             "changeTime": 1549836555337,
             "contentHash": "23d702c82d4aebdc46b0e36651f0168840ebbc74",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -459,7 +518,9 @@
             "changeTime": 1549836555370,
             "contentHash": "103528f22fd47f920db75db95482e2eda043e77e",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -472,7 +533,9 @@
             "changeTime": 1549836555383,
             "contentHash": "245c6941f55743f69459a0f17a5bbd72e22dfd16",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -485,7 +548,9 @@
             "changeTime": 1549836555392,
             "contentHash": "b645af283a22f94dc1367bc45d684c83552a7428",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -498,7 +563,9 @@
             "changeTime": 1549836555327,
             "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -511,7 +578,9 @@
             "changeTime": 1549836555390,
             "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -524,7 +593,9 @@
             "changeTime": 1549900444896,
             "contentHash": "8560224a9375f41dec7cfcf002b9144a4be27670",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -537,7 +608,9 @@
             "changeTime": 1549837351601,
             "contentHash": "b91ae3f4051e8ad6d6e106dc2074d49668f7c2cf",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -550,20 +623,24 @@
             "changeTime": 1549900444895,
             "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp",
             "isDirectory": false,
+            "size": 542,
+            "modifiedTime": 1549906524550,
+            "changeTime": 1549906524550,
+            "contentHash": "0eb081015e8f0397710d76f5fa901ec23d0495e7",
             "isMetadataFile": false,
-            "size": 339,
-            "modifiedTime": 1549902487454,
-            "changeTime": 1549902487454,
-            "contentHash": "f9bd7187bf9a569cd90222e052f48aa1c9164a5a"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -576,20 +653,24 @@
             "changeTime": 1549900444884,
             "contentHash": "4f2b577ab9601eb150f6621671f3696ad60eccb1",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.css",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 111,
             "modifiedTime": 1549902509640,
             "changeTime": 1549902509640,
-            "contentHash": "ff97680a451dccf775d504143f673481b13a3300"
+            "contentHash": "ff97680a451dccf775d504143f673481b13a3300",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -602,7 +683,9 @@
             "changeTime": 1549900444897,
             "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -615,20 +698,24 @@
             "changeTime": 1549900444893,
             "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListController.js",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListController.js",
             "isDirectory": false,
+            "size": 395,
+            "modifiedTime": 1549906558679,
+            "changeTime": 1549906558679,
+            "contentHash": "57b30f0b559317b4566fd3691c83f3439ecdc073",
             "isMetadataFile": false,
-            "size": 255,
-            "modifiedTime": 1549902497841,
-            "changeTime": 1549902497841,
-            "contentHash": "852714ef85a9eacf436a155236a97021f5688cef"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -641,7 +728,9 @@
             "changeTime": 1549900444888,
             "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -654,7 +743,9 @@
             "changeTime": 1549900444891,
             "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -667,20 +758,24 @@
             "changeTime": 1549900898644,
             "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.cmp",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 120,
             "modifiedTime": 1549902454229,
             "changeTime": 1549902454229,
-            "contentHash": "474f6d902cf12af89851140c645345a9f8da10a8"
+            "contentHash": "474f6d902cf12af89851140c645345a9f8da10a8",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -693,20 +788,24 @@
             "changeTime": 1549900917642,
             "contentHash": "8b5ab5fcd0668e218a721bf09d43db5e8d9aba66",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.css",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 168,
             "modifiedTime": 1549902470117,
             "changeTime": 1549902470117,
-            "contentHash": "28b0ed4fe984a051f5f2f586c4d4d1a2b303a706"
+            "contentHash": "28b0ed4fe984a051f5f2f586c4d4d1a2b303a706",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -719,7 +818,9 @@
             "changeTime": 1549900912754,
             "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -732,7 +833,9 @@
             "changeTime": 1549900911286,
             "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -745,7 +848,9 @@
             "changeTime": 1549837351583,
             "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -758,7 +863,9 @@
             "changeTime": 1549837351587,
             "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -771,7 +878,503 @@
             "changeTime": 1549901334600,
             "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app\\main\\default\\staticresources\\leaflet.resource-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app\\main\\default\\staticresources\\leaflet.resource-meta.xml",
+            "isDirectory": false,
+            "size": 223,
+            "modifiedTime": 1549904064705,
+            "changeTime": 1549904064705,
+            "contentHash": "fe95029d9d0695d7ebbb9f1ee9a2a5448a6e8fbb",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\layers-2x.png",
+        {
+            "sourcePath": "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\layers-2x.png",
+            "isDirectory": false,
+            "size": 1259,
+            "modifiedTime": 1549904064962,
+            "changeTime": 1549904064962,
+            "contentHash": "152a162333e46d24f9d89f566312fc0c64011dee",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\layers.png",
+        {
+            "sourcePath": "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\layers.png",
+            "isDirectory": false,
+            "size": 696,
+            "modifiedTime": 1549904064964,
+            "changeTime": 1549904064964,
+            "contentHash": "c9e7528e491a39232ba24a2706c6c739d6fb0f06",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-icon-2x.png",
+        {
+            "sourcePath": "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-icon-2x.png",
+            "isDirectory": false,
+            "size": 2464,
+            "modifiedTime": 1549904064965,
+            "changeTime": 1549904064965,
+            "contentHash": "cf3a536596b1f58e0ac805404183c8e6d6bdacb5",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-icon.png",
+        {
+            "sourcePath": "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-icon.png",
+            "isDirectory": false,
+            "size": 1466,
+            "modifiedTime": 1549904064967,
+            "changeTime": 1549904064967,
+            "contentHash": "60a90bcbb2b42b7ddb4556db94eb7c1084b0e5da",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-shadow.png",
+        {
+            "sourcePath": "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-shadow.png",
+            "isDirectory": false,
+            "size": 618,
+            "modifiedTime": 1549904064969,
+            "changeTime": 1549904064969,
+            "contentHash": "7b6a8df63930381e96604e705168d0527d6b82bc",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.esm.js",
+        {
+            "sourcePath": "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.esm.js",
+            "isDirectory": false,
+            "size": 401270,
+            "modifiedTime": 1549904065022,
+            "changeTime": 1549904065022,
+            "contentHash": "7c3cc20cc1e967cffd6a7e4a51ea27693625dfc6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.esm.js.map",
+        {
+            "sourcePath": "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.esm.js.map",
+            "isDirectory": false,
+            "size": 764787,
+            "modifiedTime": 1549904065031,
+            "changeTime": 1549904065031,
+            "contentHash": "c7c7ab6e552fd95a0ad161d0ba0d7051856b269a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.js",
+        {
+            "sourcePath": "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.js",
+            "isDirectory": false,
+            "size": 402995,
+            "modifiedTime": 1549904065089,
+            "changeTime": 1549904065089,
+            "contentHash": "3538f0465359f2791f44f328f873423c5ce7f20f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.js.map",
+        {
+            "sourcePath": "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.js.map",
+            "isDirectory": false,
+            "size": 764879,
+            "modifiedTime": 1549904065099,
+            "changeTime": 1549904065099,
+            "contentHash": "fc374d820013bd0bde31474e2418dc32dfb128bf",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.css",
+        {
+            "sourcePath": "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.css",
+            "isDirectory": false,
+            "size": 14106,
+            "modifiedTime": 1549904065108,
+            "changeTime": 1549904065108,
+            "contentHash": "047c2b6bab441e6fe6d3ea804fdb82524b312829",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.js",
+        {
+            "sourcePath": "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.js",
+            "isDirectory": false,
+            "size": 141125,
+            "modifiedTime": 1549904065166,
+            "changeTime": 1549904065166,
+            "contentHash": "507fe8750c2915538408f9f6617e65be8bdcf842",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.js.map",
+        {
+            "sourcePath": "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.js.map",
+            "isDirectory": false,
+            "size": 192417,
+            "modifiedTime": 1549904065174,
+            "changeTime": 1549904065174,
+            "contentHash": "58e0281121ee7548889e517aeaa62784880aa59a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app\\main\\default\\settings\\Security.settings-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app\\main\\default\\settings\\Security.settings-meta.xml",
+            "isDirectory": false,
+            "size": 2633,
+            "modifiedTime": 1549904065228,
+            "changeTime": 1549904065228,
+            "contentHash": "2b8efeb6317a8b1a0176709d74c09f17359de806",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app\\main\\default\\staticresources",
+        {
+            "sourcePath": "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app\\main\\default\\staticresources",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1549904064958,
+            "changeTime": 1549904064958,
+            "contentHash": "a3ad4d54448f22cbf71389bec794c76ffeb81f49",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images",
+        {
+            "sourcePath": "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1549904064968,
+            "changeTime": 1549904064968,
+            "contentHash": "504aa9d4037501ec4d0edf632f7af41532b43659",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app\\main\\default\\staticresources\\leaflet",
+        {
+            "sourcePath": "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app\\main\\default\\staticresources\\leaflet",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1549904065167,
+            "changeTime": 1549904065167,
+            "contentHash": "a4bdb0bbac118a8412f497c2e41a08d3b9edb86a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app\\default",
+        {
+            "sourcePath": "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1549904192665,
+            "changeTime": 1549904192665,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app\\default\\main",
+        {
+            "sourcePath": "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app\\default\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1549904192665,
+            "changeTime": 1549904192665,
+            "contentHash": "2c2a89c1c45d2977cfce538e475902f5520f4382",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app\\default\\main\\aura",
+        {
+            "sourcePath": "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app\\default\\main\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1549904192718,
+            "changeTime": 1549904192718,
+            "contentHash": "de7a93e3a522a947e4b028ba1aeebddd8d28f87f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app\\default\\main\\aura\\AccountMap",
+        {
+            "sourcePath": "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app\\default\\main\\aura\\AccountMap",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1549904192756,
+            "changeTime": 1549904192756,
+            "contentHash": "ca7497b9d16bf71224d944e5c0c08dce87141486",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app\\default\\main\\aura\\AccountMap\\AccountMap.auradoc",
+        {
+            "sourcePath": "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app\\default\\main\\aura\\AccountMap\\AccountMap.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1549904192755,
+            "changeTime": 1549904192755,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app\\default\\main\\aura\\AccountMap\\AccountMap.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app\\default\\main\\aura\\AccountMap\\AccountMap.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 330,
+            "modifiedTime": 1549906986791,
+            "changeTime": 1549906986791,
+            "isWorkspace": false,
+            "contentHash": "9c0b549aa28ba0a5368296b95374b3c5e9e190c3"
+        }
+    ],
+    [
+        "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app\\default\\main\\aura\\AccountMap\\AccountMap.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app\\default\\main\\aura\\AccountMap\\AccountMap.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 242,
+            "modifiedTime": 1549904192732,
+            "changeTime": 1549904192732,
+            "contentHash": "fdac90e0dac3caab30457b5a957f4cac9c801490",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app\\default\\main\\aura\\AccountMap\\AccountMap.css",
+        {
+            "sourcePath": "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app\\default\\main\\aura\\AccountMap\\AccountMap.css",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1549904983362,
+            "changeTime": 1549904983362,
+            "contentHash": "ebb934ce6fc2c1d3ebcc4e777e6cfe54d5d838ab",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app\\default\\main\\aura\\AccountMap\\AccountMap.design",
+        {
+            "sourcePath": "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app\\default\\main\\aura\\AccountMap\\AccountMap.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1549904192757,
+            "changeTime": 1549904192757,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app\\default\\main\\aura\\AccountMap\\AccountMap.svg",
+        {
+            "sourcePath": "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app\\default\\main\\aura\\AccountMap\\AccountMap.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1549904192753,
+            "changeTime": 1549904192753,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app\\default\\main\\aura\\AccountMap\\AccountMapController.js",
+        {
+            "sourcePath": "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app\\default\\main\\aura\\AccountMap\\AccountMapController.js",
+            "isDirectory": false,
+            "size": 830,
+            "modifiedTime": 1549906619374,
+            "changeTime": 1549906619374,
+            "contentHash": "22f2320dc148f0e43c67b8f5d2dc75933cb07c22",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app\\default\\main\\aura\\AccountMap\\AccountMapHelper.js",
+        {
+            "sourcePath": "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app\\default\\main\\aura\\AccountMap\\AccountMapHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1549904192744,
+            "changeTime": 1549904192744,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app\\default\\main\\aura\\AccountMap\\AccountMapRenderer.js",
+        {
+            "sourcePath": "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app\\default\\main\\aura\\AccountMap\\AccountMapRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1549904192751,
+            "changeTime": 1549904192751,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded",
+        {
+            "sourcePath": "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1549906402472,
+            "changeTime": 1549906402472,
+            "contentHash": "4bba9f5fa252e1cd21062d694a0425e2246f27ae",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt",
+        {
+            "sourcePath": "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt",
+            "isDirectory": false,
+            "size": 100,
+            "modifiedTime": 1549906481156,
+            "changeTime": 1549906481156,
+            "contentHash": "8f41527bf754bff336a0a867da6cdd35659054b4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt-meta.xml",
+            "isDirectory": false,
+            "size": 242,
+            "modifiedTime": 1549906402478,
+            "changeTime": 1549906402478,
+            "contentHash": "5dfe3f744956751581eba3002d0680a136532eb1",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ]
 ]
