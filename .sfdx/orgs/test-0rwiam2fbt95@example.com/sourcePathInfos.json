@@ -270,14 +270,14 @@
     [
         "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls",
             "isDirectory": false,
-            "size": 284,
-            "modifiedTime": 1549829895381,
-            "changeTime": 1549829895381,
-            "contentHash": "6e8e029bbe80e0da95b27eff94b426f6a291fccd",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 292,
+            "modifiedTime": 1549902394806,
+            "changeTime": 1549902394806,
+            "contentHash": "1b3bdaf5018ea4a53307d7f7f75627a10855eeb7"
         }
     ],
     [
@@ -322,14 +322,14 @@
     [
         "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
             "isDirectory": false,
-            "size": 186,
-            "modifiedTime": 1549901011274,
-            "changeTime": 1549901011274,
-            "contentHash": "4ebf0bd62d168234ff5373651052b95c12a05d3e",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 182,
+            "modifiedTime": 1549902526823,
+            "changeTime": 1549902526823,
+            "contentHash": "f0aad58c6510048b7f88251e480b43431d0b9784"
         }
     ],
     [
@@ -348,14 +348,14 @@
     [
         "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.css",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.css",
             "isDirectory": false,
-            "size": 124,
-            "modifiedTime": 1549830291283,
-            "changeTime": 1549830291283,
-            "contentHash": "b339b39b3c2edcd41c989a05ae809059d123eb19",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 129,
+            "modifiedTime": 1549902424342,
+            "changeTime": 1549902424342,
+            "contentHash": "85b104cc64abfbfc4c3db17ed3f6622f68ff6797"
         }
     ],
     [
@@ -560,10 +560,10 @@
             "sourcePath": "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 353,
-            "modifiedTime": 1549901894360,
-            "changeTime": 1549901894360,
-            "contentHash": "0e18233531655754f7ef51755459b2ca97e5c8d4"
+            "size": 339,
+            "modifiedTime": 1549902487454,
+            "changeTime": 1549902487454,
+            "contentHash": "f9bd7187bf9a569cd90222e052f48aa1c9164a5a"
         }
     ],
     [
@@ -582,14 +582,14 @@
     [
         "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.css",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.css",
             "isDirectory": false,
-            "size": 111,
-            "modifiedTime": 1549900885742,
-            "changeTime": 1549900885742,
-            "contentHash": "c0f1f28c2fba7eb74f0ec24e59da66482f82a90a",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 111,
+            "modifiedTime": 1549902509640,
+            "changeTime": 1549902509640,
+            "contentHash": "ff97680a451dccf775d504143f673481b13a3300"
         }
     ],
     [
@@ -621,14 +621,14 @@
     [
         "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListController.js",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListController.js",
             "isDirectory": false,
-            "size": 258,
-            "modifiedTime": 1549900805422,
-            "changeTime": 1549900805422,
-            "contentHash": "37a374f3c9bf16b43196df7f2e358e9fc7493d42",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 255,
+            "modifiedTime": 1549902497841,
+            "changeTime": 1549902497841,
+            "contentHash": "852714ef85a9eacf436a155236a97021f5688cef"
         }
     ],
     [
@@ -673,14 +673,14 @@
     [
         "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.cmp",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.cmp",
             "isDirectory": false,
-            "size": 124,
-            "modifiedTime": 1549901235308,
-            "changeTime": 1549901235308,
-            "contentHash": "7faed956027336380bad76346c122709dd0ba62b",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 120,
+            "modifiedTime": 1549902454229,
+            "changeTime": 1549902454229,
+            "contentHash": "474f6d902cf12af89851140c645345a9f8da10a8"
         }
     ],
     [
@@ -699,14 +699,14 @@
     [
         "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.css",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\chuy_\\OneDrive\\Documentos\\Trailhead Projects\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.css",
             "isDirectory": false,
-            "size": 168,
-            "modifiedTime": 1549901260510,
-            "changeTime": 1549901260510,
-            "contentHash": "878a5fcec526d5e4fa95196fe8c5f60e19004229",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 168,
+            "modifiedTime": 1549902470117,
+            "changeTime": 1549902470117,
+            "contentHash": "28b0ed4fe984a051f5f2f586c4d4d1a2b303a706"
         }
     ],
     [
